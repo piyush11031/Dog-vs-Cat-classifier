@@ -23,11 +23,11 @@
     height: 29px;
     width: 30px;
   /*   content: 'hello'; */
-    color: white;
+    color: black;
     
   /*   background-image: url() */
   }
   .custom-file-upload::before {
-    content: 'helo';
+    content: 'Click';
    
   }
